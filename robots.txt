@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geracaostronger-hash.github.io/jovensalcancar/sitemap.xml
